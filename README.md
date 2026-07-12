@@ -32,6 +32,6 @@ This project demonstrates a comprehensive approach to detecting network anomalie
 - **Comprehensive Evaluation**: Extracting detailed metrics beyond standard accuracy—such as precision, recall, and F1-scores per class—paired with visualizations (Confusion Matrices) to diagnose specific misclassifications and assess performance across distinct anomaly types.
 
 ## Dataset Used
-This project leverages the **NSL-KDD dataset**, a widely recognized benchmark for network intrusion detection. The dataset was obtained via the HackTheBox platform.
+This project leverages the **NSL-KDD dataset**, a widely recognized benchmark for network intrusion detection. The dataset was obtained via the HackTheBox.
 
 **Author:** Engr. Hammad Khurshid
